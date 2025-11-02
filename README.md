@@ -16,7 +16,7 @@ The project used data on traffic accidents in the UK over a span of a decade. Th
 The project covers the theoretical concepts and applications of the following topics:
 
 -	Random Forests
--	Nueral Net
+-	Neural Net
 -	Effects of Imbalance data on classification 
 -	Random Oversampling
 -	Adaptive Learning
